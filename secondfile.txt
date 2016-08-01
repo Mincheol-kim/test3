@@ -1,7 +1,5 @@
-First
+두번째 파일
 
-six
+경우의수
 
-seven
-
-eight
+coding is good 
